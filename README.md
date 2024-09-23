@@ -1,5 +1,5 @@
-# 👋 Olá, sou **André Serejo!**
-🎯 Desenvolvedor Back-End apaixonado por transformar ideias em soluções digitais eficientes.
+# 👋 Olá, me chamo **André Serejo!**
+💻 Desenvolvedor Back-End apaixonado por transformar ideias em soluções digitais eficientes.
 
 🚀 Atualmente focado no desenvolvimento de APIs robustas e integrações usando **Python** e **Django**. Estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades e criar projetos impactantes.
 
@@ -12,10 +12,10 @@
 ---
 
 ### 🛠️ Habilidades Técnicas
-- **Linguagens**: Python, JavaScript
+- **Linguagens**: Python, JavaScript, C, C++, Java
 - **Frameworks**: Django, Flask
 - **Banco de Dados**: SQLite, PostgreSQL
-- **Ferramentas**: Git, Docker, Visual Studio Code
+- **Ferramentas**: Git, Docker
 
 ---
 <!---
